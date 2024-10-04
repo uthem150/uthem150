@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
 <br><br>
 <img src="https://img.shields.io/badge/adobe illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"> 
 <img src="https://img.shields.io/badge/autodesk maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white"> 
