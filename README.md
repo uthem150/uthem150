@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 -->
 <div align=center> 
 <br/>
-
-<h2 align="center">🌱 성장 진행형 개발자, 김도훈입니다! 🌱</h2>
   
 <br/><br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
