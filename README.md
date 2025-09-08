@@ -7,7 +7,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6284F7FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=80&lines=Hello+World!👋)](https://git.io/typing-svg)
 
   <p>💡 I enjoy making interesting projects, constantly learning and growing.</p>
-  <p>✉️ If you have any questions, please contact us at uthem150@gmail.com !</p>
+  <p>✉️ If you have any questions, please contact me at `uthem150@gmail.com` !</p>
 
 </div>
 
